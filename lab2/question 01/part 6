@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>Bevarages list</title>
+</head>
+<body>
+ <ul>
+    <li>A. tea</li>
+  	<li>B. milk</li>
+  	<li>C. coffee</li>
+	</ul>
+</body>
+</html>
