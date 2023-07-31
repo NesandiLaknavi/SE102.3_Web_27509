@@ -1,0 +1,29 @@
+<html>
+	<head>
+    	<title>Sports</title>
+	</head>
+	<body>
+    	<h1>1. Cricket</h1>
+    	<ul>
+        <li>A. T20</li>
+        <li>B. ODI</li>
+        <li>C. Test</li>
+    	</ul>
+	<h1>2. Football</h1>
+    	<h1>3. Rugby</h1>
+    	<h1>4. Athletics</h1>
+    	<ul>
+        <li>i. Running events</li>
+        <ul>
+            <li>a. 100m</li>
+            <li>b. 200m</li>
+            <li>c. 400m</li>
+        </ul>
+        <li>ii. Javelin Throw</li>
+    	</ul>
+	</body>
+	</html>
+
+
+
+
