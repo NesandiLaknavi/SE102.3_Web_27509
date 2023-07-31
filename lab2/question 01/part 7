@@ -1,0 +1,26 @@
+<html>
+		<head>
+    		<title>Group Lists</title>
+		</head>
+		<body>
+    		<h2>Group A</h2>
+    		<ol>
+        	<li>Germany</li>
+        	<li>France</li>
+        	<li>Spain</li>
+    		</ol>
+		<h2>Group B</h2>
+    		<ol>
+        	<li>Brazil</li>
+        	<li>Argentina</li>
+        	<li>Portugal</li>
+    		</ol>
+   		<h2>Group C</h2>
+    		<ul>
+        	<li>Italy</li>
+        	<li>Netherlands</li>
+        	<li>England</li>
+    		</ul>
+		</body>
+		</html>
+
